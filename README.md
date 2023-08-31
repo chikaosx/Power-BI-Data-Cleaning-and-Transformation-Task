@@ -19,7 +19,7 @@ This documentation outlines the data cleaning and transformation tasks in Power 
    - Employee.csv
    - Salary.csv
    - Department.csv
-
+![](csv.png)
 ### Step 3: Transform Data
 
 5. After loading the data, click on "Edit Queries" to open the Power Query Editor in a new window.
