@@ -22,7 +22,8 @@ This documentation outlines the data cleaning and transformation tasks in Power 
 ![](csv.png)
 ### Step 3: Transform Data
 
-5. After loading the data, click on "Edit Queries" to open the Power Query Editor in a new window.
+1. After loading the data, click on "Edit Queries" to open the Power Query Editor in a new window.
+![image](transform.png)
 
 ### Employee Data Cleaning and Transformation
 
