@@ -85,6 +85,7 @@ This documentation outlines the data cleaning and transformation tasks in Power 
 2. Merge on `Employee ID` as the common column using an outer join.
 
 3. After merging, open the new `Salary` column added, and expand it. Select the columns you want to merge and uncheck "Use original table name as prefix."
+![image](merge.png)
 
 ### Step 8: Merging Resultant Table with Department Table
 
@@ -93,11 +94,12 @@ This documentation outlines the data cleaning and transformation tasks in Power 
 2. Merge on `Department ID` as the common column using an outer join.
 
 3. The merged table is now ready for further analysis and reporting.
+![image](merge2.png)
 
 ### Conclusion
 
-1. Close the Power Query Editor and load the cleaned and transformed data into Power BI Desktop.
+1. Apply and Close the Power Query Editor and load the cleaned and transformed data into Power BI Desktop.
 
 2. You can now create visualizations, perform analysis, and build reports based on the cleaned data.
 
-This completes the data cleaning and transformation process in Power BI Desktop for the Employee, Salary, and Department datasets. Ensure that you save your work and update the data as needed for ongoing analysis and reporting tasks.
+This completes the data cleaning and transformation process in Power BI Desktop for the Employee, Salary, and Department datasets.
