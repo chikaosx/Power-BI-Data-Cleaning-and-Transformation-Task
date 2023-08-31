@@ -42,7 +42,7 @@ This documentation outlines the data cleaning and transformation tasks in Power 
    - Change data types to "Text" for `Employee ID`, `Aadhar`, `Pincode`, `Phone`, and `Department ID`.
 
 4. Remove the `Aadhar` column as it is not useful for analysis.
-![image](pq.png)
+![image](employee.png)
 
 
 ### Step 5: Cleaning Salary Table
@@ -60,6 +60,7 @@ This documentation outlines the data cleaning and transformation tasks in Power 
 4. Use "Keep Top Rows" to retain the top 100 rows containing data.
 
 5. Change the data type of `Employee ID` to "Text".
+![image](salary.png)
 
 
 ### Step 6: Cleaning Department Table
@@ -74,8 +75,8 @@ This documentation outlines the data cleaning and transformation tasks in Power 
     - Note that 94% of the data is empty, and there are a total of 199 rows.
 
 4. Use "Keep Top Rows" to retain the top 11 rows containing data.
+![image](department.png)
 
-## Merging the Tables
 
 ### Step 7: Merging Employee and Salary Tables
 
