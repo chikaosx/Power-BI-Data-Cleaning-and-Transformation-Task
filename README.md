@@ -7,6 +7,7 @@ This documentation outlines the data cleaning and transformation tasks in Power 
 ### Step 1: Open Power BI Desktop
 
 1. Launch Power BI Desktop.
+![](desktop.png)
 
 ### Step 2: Load CSV Files
 
