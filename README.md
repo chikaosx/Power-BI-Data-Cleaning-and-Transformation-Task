@@ -98,8 +98,9 @@ This documentation outlines the data cleaning and transformation tasks in Power 
 
 ### Conclusion
 
-1. Apply and Close the Power Query Editor and load the cleaned and transformed data into Power BI Desktop.
+1. Apply and Close the Power Query Editor, and load the cleaned and transformed data into Power BI Desktop.
 
 2. You can now create visualizations, perform analysis, and build reports based on the cleaned data.
 
 This completes the data cleaning and transformation process in Power BI Desktop for the Employee, Salary, and Department datasets.
+![image](clean-dataset.png)
